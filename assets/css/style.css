@@ -1,0 +1,73 @@
+
+.jumbotron {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow:  red 0.3em 0.3em 0.3em;
+    border-color: red;
+    border-style: solid;
+}
+
+
+
+.card-header {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+  
+    align-items: center;
+    border-style: solid;
+    border-color: red;
+    border-radius: 15px;
+    background-color: navy;
+
+}
+
+.card-body {
+
+    border-style: solid;
+    border-color: red;
+}
+
+
+#train-table th,
+td {
+  display: inline-block;
+  width: 20%;
+  border-color: navy;
+  font-weight: bold;
+}
+
+#train-add-table th,
+td {
+  display: inline-block;
+  width: 25%;
+  border-color: navy;
+}
+
+.form-control {
+    display: inline-block;
+    width: 22%;
+    border-style: solid;
+    border-color: black;
+}
+
+#train-destination-input {
+    margin-left: 30px;
+}
+#train-destination-input {
+    margin-left: 30px;
+}
+#train-start-time-input {
+    margin-left: 30px;
+}
+#train-frequency-input {
+    margin-left: 29px;
+}
+#submit-add-train {
+    margin-top: 15px;
+    border-radius: 8px;
+    background-color: navy;
+}
